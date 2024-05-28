@@ -1,7 +1,7 @@
 body {
   margin: 0;
   min-width: 960px;
-  font-family: "Montserrat", "Helvetica", "Arial", sans-serif;
+  font-family: "Nono Sans HK", "Helvetica", "Arial", sans-serif;
   font-size: 16px;
   line-height: 32px;
   color: #222;
@@ -9,16 +9,17 @@ body {
   background-image: url("img/header.jpg");
   background-repeat: no-repeat;
   background-position: top center;
+  background-size: 100% auto;
 }
 
 .container {
-  max-width: 928px;
+  max-width: 80%;
   margin: 0 auto;
   padding: 0 16px;
 }
 
 .page-header {
-  margin: 0 0 160px;
+  margin: 0 0 0px;
   padding: 32px 0 32px;
 }
 
@@ -36,18 +37,9 @@ body {
   background-position: left;
 }
 
-.header-email {
-  padding-left: 30px;
-  background-image: url("img/icon-email-header.svg");
-}
-
-.header-phone {
-  padding-left: 25px;
-  background-image: url("img/icon-phone-header.svg");
-}
-
 .head-image {
-  margin-bottom: 620px;
+  margin-bottom: 740px;
+  margin-top: 60px;
 }
 
 .head-image .container {
@@ -75,7 +67,7 @@ body {
 
 .subheading {
   margin: 0 0 56px;
-  font-family: "Old Standard TT", "Times", "Times New Roman", serif;
+  font-family: "Nono Sans HK", "Old Standard TT", "Times", "Times New Roman", serif;
   font-size: 64px;
   line-height: 80px;
   font-weight: 400;
