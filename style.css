@@ -6,7 +6,7 @@ body {
   line-height: 32px;
   color: #222;
   background-color: #f2f4f6;
-  background-image: url("img/hero-bg.jpg");
+  background-image: url("img/header.jpg");
   background-repeat: no-repeat;
   background-position: top center;
 }
@@ -46,11 +46,11 @@ body {
   background-image: url("img/icon-phone-header.svg");
 }
 
-.hero-image {
+.head-image {
   margin-bottom: 620px;
 }
 
-.hero-image .container {
+.head-image .container {
   max-width: 1408px;
   text-align: center;
 }
@@ -63,7 +63,7 @@ body {
   font-weight: 400;
 }
 
-.hero-image p {
+.head-image p {
   margin: 0;
   font-size: 32px;
   line-height: 48px;
